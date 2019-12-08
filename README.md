@@ -34,13 +34,21 @@ Output Example:
 5     0     5  000101  64 bytes from @000101000000  -10   
 6     0     6  000110  64 bytes from @000110000000   -9   
 7     0     7  000111  64 bytes from @000111000000   -8
+
 8     0     8  001000  64 bytes from @001000000000   -7
+
 9     0     9  001001  64 bytes from @001001000000   -6
+
 10    0    10  001010  64 bytes from @001010000000   -5
+
 11    0    11  001011  64 bytes from @001011000000   -4
+
 12    0    12  001100  64 bytes from @001100000000   -3
+
 13    0    13  001101  64 bytes from @001101000000   -2
+
 14    0    14  001110  64 bytes from @001110000000   -1
+
 15    0    15  001111  64 bytes from @001111000000    0
 
 Cache miss rate = 50.0% using a Fully-Associative cache.
