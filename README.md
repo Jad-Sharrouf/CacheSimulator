@@ -25,7 +25,7 @@ Given a memory trace file, the simulator will output the cache miss rate and a f
 
 Output Example:
 
-    set  slot     tag                         data  LRU   
+   set  slot     tag                         data  LRU
 0     0     0  000000  64 bytes from @000000000000  -15   
 1     0     1  000001  64 bytes from @000001000000  -14   
 2     0     2  000010  64 bytes from @000010000000  -13   
